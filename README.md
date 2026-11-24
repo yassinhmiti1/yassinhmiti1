@@ -35,10 +35,6 @@ Welcome to my GitHub profile! I'm passionate about web development, programming,
 
 ---
 
-⭐ Thanks for visiting my profile!
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
